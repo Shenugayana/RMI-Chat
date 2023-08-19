@@ -1,5 +1,12 @@
 # RMI-Chat
-RMI Chat Application
+RMI Chat Application - Client
+
+This repository contains the code for the RMI Client of the Chat Application. The client allows users to authenticate, join chat room, and participate in real-time conversations.
+
+Features
+Login: Users can log in with their credentials. The client sends the credentials to the server for authentication.
+Chat Interface: Once logged in, users can join the chat and send/receive messages in real time.
+User List: The client displays a list of users currently in the chat room.
 
 ## Authors
 - [@shenugayana](https://www.github.com/shenugayana)
